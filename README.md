@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script>
         function triggerAnimation() {
-            const imagea = document.getElementById("myContainer");
+            const imagea = document.getElementById("Egg.png");
             
             // Add the animation class
             imagea.classList.add("animate");
