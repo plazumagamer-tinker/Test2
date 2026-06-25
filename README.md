@@ -1,3 +1,4 @@
+<img width="436" height="572" alt="Egg" src="https://github.com/user-attachments/assets/21c7b36c-c54e-478d-8f26-8c67f72fe581" />
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
