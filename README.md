@@ -1,2 +1,3 @@
-# Test2
-Test for using github to handle static websites
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
